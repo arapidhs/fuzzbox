@@ -1,4 +1,4 @@
-package org.arapidis.decorators;
+package org.fuzzbox.decorators;
 
 import java.io.ByteArrayOutputStream;
 import java.io.Closeable;

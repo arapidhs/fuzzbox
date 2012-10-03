@@ -1,4 +1,4 @@
-package org.arapidis.decorators;
+package org.fuzzbox.decorators;
 
 import com.itextpdf.text.DocumentException;
 

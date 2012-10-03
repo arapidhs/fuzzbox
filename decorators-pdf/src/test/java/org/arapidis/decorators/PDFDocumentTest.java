@@ -2,6 +2,11 @@ package org.arapidis.decorators;
 
 import static org.junit.Assert.*;
 
+import org.fuzzbox.decorators.HeaderDecorator;
+import org.fuzzbox.decorators.IDocument;
+import org.fuzzbox.decorators.PDFDocument;
+import org.fuzzbox.decorators.PagingDecorator;
+import org.fuzzbox.decorators.WatermarkDecorator;
 import org.junit.Test;
 
 import com.itextpdf.text.DocumentException;

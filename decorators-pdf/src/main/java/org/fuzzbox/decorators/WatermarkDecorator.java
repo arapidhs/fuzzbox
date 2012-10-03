@@ -1,4 +1,4 @@
-package org.arapidis.decorators;
+package org.fuzzbox.decorators;
 
 public class WatermarkDecorator extends DocumentDecorator{
 
